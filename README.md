@@ -22,8 +22,10 @@ realistic projects.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:
+  [Frontend Mentor solution Page](https://www.frontendmentor.io/solutions/simple-recipe-page-using-css-flexbox-_0GkUdU_m0)
+- Live Site URL:
+  [Hosted on Github pages](https://stanmancer.github.io/recipe-page/)
 
 ## My process
 
